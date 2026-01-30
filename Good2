@@ -1,0 +1,23 @@
+# Zenith Token Demo
+
+Zenith Token Demo is a simple token implementation example created for learning and testing blockchain interactions.
+
+## Overview
+
+This project demonstrates a basic token structure and interaction model. It is intended for educational purposes and experimentation.
+
+## Features
+
+- Basic token logic
+- Transfer simulation
+- Configurable parameters
+- Beginner-friendly structure
+
+## Purpose
+
+This repository serves as a demonstration project for token mechanics and blockchain experimentation.
+
+## Status
+
+✅ Demo version – for learning and testing only.
+
